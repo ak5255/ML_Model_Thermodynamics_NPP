@@ -1,4 +1,4 @@
-# ML_Model_Thermodynamics_NPP
+# Simplified and Machine Learning Model for NPP
 
 Simplified Models:
 The code "f_method_1.m" is used to calculate thermodynamic performance parameters of water-cooled reactors nuclear power plants (NPP) using Simplified Model 1.
